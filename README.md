@@ -13,7 +13,7 @@
  📱 I'm currently working on [Newsify](https://github.com/Shubh-1-am/Newsify). <br> <br>
  📚 Right now, I'm learning all about [data structures and algorithms](https://github.com/Shubh-1-am/DSalgo), [Android development](https://github.com/Shubh-1-am?tab=repositories), and [AI-ML](https://github.com/Shubh-1-am/ML-Hands-On). <br> <br>
  🤝 I'm always open to collaborations on Android, AI, and ML projects. If you've got an idea that you think is out of this world, don't hesitate to reach out! <br> <br>
- 💌 Ask me anything [here](mailto:singhshubham0473@gmail.com). I promise I won't bite! <br><br>
+ 💌 Ask me anything at [singhshubham0473@gmail.com](mailto:singhshubham0473@gmail.com). I promise I won't bite! <br><br>
  🤔 Insights and Observations: <i> <b>Don't love a programming language; love the act of programming itself.</b></i>
  
  <p>
