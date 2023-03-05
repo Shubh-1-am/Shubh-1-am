@@ -91,8 +91,13 @@
   <br>
 </p>
 
-## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## <img src='https://github.com/Shubh-1-am/Shubh-1-am/blob/main/handshake.gif?raw=true' width="100px">Connect with me
 <a href = 'https://www.linkedin.com/in/shubham-singh-897a27223'> <img width = '32px' align= 'center' src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> 
 <a href = 'https://medium.com/@shubham0473'> <img width = '32px' align= 'center' src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"/></a> 
 <a href = 'https://www.instagram.com/of.shubham/'> <img width = '32px' align= 'center' src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a> 
 <a href = 'https://github.com/Shubh-1-am'> <img width = '32px' align= 'center' src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/></a>
+
+<p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+</p>
