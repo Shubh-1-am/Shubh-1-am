@@ -8,7 +8,7 @@
 <img src="https://github.com/Shubh-1-am/Shubh-1-am/blob/main/welcome_text.gif" alt="Welcome!" width="300" height ="250" align="right"/>
 
 
- 🚀 I'm <b>Shubh-1-am</b>, a a computer science enthusiast on a quest to build better software and bring a little bit of fun to the world of coding. I'm currently pursuing my dreams at [NIT Srinagar](https://nitsri.ac.in/), where I'm learning all sorts of fun things about coding and computer engineering. <br> <br>
+ 🚀 I'm <b>Shubh-1-am</b>,a computer science enthusiast on a quest to build better software and bring a little bit of fun to the world of coding. I'm currently pursuing my dreams at [NIT Srinagar](https://nitsri.ac.in/), where I'm learning all sorts of fun things about coding and computer engineering. <br> <br>
  🎙️ Talkin' Tech: Java, Android Development, DSA, ML, DL, and AI <br><br>
  📱 I'm currently working on [Newsify](https://github.com/Shubh-1-am/Newsify). <br> <br>
  📚 Right now, I'm learning all about [data structures and algorithms](https://github.com/Shubh-1-am/DSalgo), [Android development](https://github.com/Shubh-1-am), and [AI-ML](https://github.com/Shubh-1-am/ML-Hands-On). <br> <br>
