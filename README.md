@@ -11,7 +11,7 @@
  🚀 I'm <b>Shubh-1-am</b>, a computer science enthusiast on a quest to build better software and bring a little bit of fun to the world of coding. I'm currently pursuing my dreams at [NIT Srinagar](https://nitsri.ac.in/), where I'm learning all sorts of fun things about coding and computer engineering. <br> <br>
  🎙️ Talkin' Tech: Java, Android Development, DSA, ML, DL, and AI <br><br>
  📱 I'm currently working on [Newsify](https://github.com/Shubh-1-am/Newsify). <br> <br>
- 📚 Right now, I'm learning all about [data structures and algorithms](https://github.com/Shubh-1-am/DSalgo), [Android development](https://github.com/Shubh-1-am), and [AI-ML](https://github.com/Shubh-1-am/ML-Hands-On). <br> <br>
+ 📚 Right now, I'm learning all about [data structures and algorithms](https://github.com/Shubh-1-am/DSalgo), [Android development](https://github.com/Shubh-1-am?tab=repositories), and [AI-ML](https://github.com/Shubh-1-am/ML-Hands-On). <br> <br>
  🤝 I'm always open to collaborations on Android, AI, and ML projects. If you've got an idea that you think is out of this world, don't hesitate to reach out! <br> <br>
  💌 Ask me anything [here](mailto:singhshubham0473@gmail.com). I promise I won't bite! <br><br>
  🤔 Insights and Observations: <i> <b>Don't love a programming language; love the act of programming itself.</b></i>
